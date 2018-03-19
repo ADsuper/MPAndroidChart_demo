@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MPAndroidChart_demo.iml" filepath="$PROJECT_DIR$/MPAndroidChart_demo.iml" />
+      <module fileurl="file://D:\androidStudio_workspace\MPAndroidChart_demo\MPAndroidChart_demo.iml" filepath="D:\androidStudio_workspace\MPAndroidChart_demo\MPAndroidChart_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\androidStudio_workspace\MPAndroidChart_demo\app\app.iml" filepath="D:\androidStudio_workspace\MPAndroidChart_demo\app\app.iml" />
     </modules>
   </component>
 </project>
