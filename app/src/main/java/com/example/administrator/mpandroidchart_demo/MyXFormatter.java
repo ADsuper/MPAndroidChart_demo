@@ -20,7 +20,7 @@ public class MyXFormatter implements IAxisValueFormatter {
 
     @Override
     public String getFormattedValue(float value, AxisBase axis) {
-        if (value < 0 || value > (xVals_arr.length - 1)){//使得两侧柱子完全显示
+        if (value < 0 || value >= xVals_arr.length ){//使得两侧柱子完全显示
             return "";
         }
         return xVals_arr[((int)value)];
